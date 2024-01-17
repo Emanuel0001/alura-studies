@@ -1,46 +1,30 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Alura Studies - Seu Organizador de Estudos com React e TypeScript**
 
-## Available Scripts
+O Alura Studies é um aplicativo desenvolvido como parte do curso "Escrevendo React com TypeScript" da Alura. Este projeto visa criar um organizador de estudos, permitindo que os usuários adicionem novos estudos, definindo a duração do tempo de estudo desejado.
 
-In the project directory, you can run:
+**Principais Funcionalidades:**
 
-### `npm start`
+1.  **Adição de Novos Estudos:** Os usuários podem adicionar novos estudos ao fornecer detalhes como o nome do estudo e a duração desejada do tempo de estudo.
+    
+2.  **Listagem de Estudos Adicionados:** Uma lista de estudos adicionados é exibida, mostrando o nome do estudo, a duração configurada e um botão para iniciar o cronômetro associado.
+    
+3.  **Cronômetro Integrado:** Ao selecionar um estudo específico, os usuários podem iniciar um cronômetro associado a esse estudo. O cronômetro exibe o tempo decorrido, fornecendo uma maneira visual e prática de acompanhar o tempo de estudo.
+    
+4.  **Finalização de Estudo:** Após a conclusão do tempo de estudo definido, a tarefa é automaticamente marcada como concluída e não pode ser selecionada novamente. Isso ajuda os usuários a manterem um registro claro de seus estudos concluídos.
+    
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Tecnologias Utilizadas:**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+-   **React e TypeScript:** A aplicação é construída utilizando React.js com TypeScript, aproveitando os benefícios de tipagem estática para um código mais robusto.
+    
+-   **Controle de Estado:** O estado da aplicação é gerenciado de forma eficiente, garantindo uma experiência de usuário fluida ao adicionar, selecionar e concluir estudos.
+    
+-   **Cronômetro e Temporização:** A integração de um cronômetro permite aos usuários seguir um tempo de estudo definido, melhorando a gestão do tempo durante as sessões de estudo.
+    
 
-### `npm test`
+**Desafios e Aprendizados:**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Durante o desenvolvimento deste projeto, enfrentamos desafios como a integração do cronômetro, a manipulação eficiente do estado da aplicação e a implementação de lógica para garantir que os estudos concluídos sejam adequadamente gerenciados.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto é uma excelente oportunidade para aprender e aplicar conceitos fundamentais de React, TypeScript e gerenciamento de estado em uma aplicação prática e útil.# alura-studies
