@@ -1,4 +1,3 @@
-
 **Alura Studies - Seu Organizador de Estudos com React e TypeScript**
 
 O Alura Studies é um aplicativo desenvolvido como parte do curso "Escrevendo React com TypeScript" da Alura. Este projeto visa criar um organizador de estudos, permitindo que os usuários adicionem novos estudos, definindo a duração do tempo de estudo desejado.
@@ -27,5 +26,11 @@ O Alura Studies é um aplicativo desenvolvido como parte do curso "Escrevendo Re
 
 Durante o desenvolvimento deste projeto, enfrentamos desafios como a integração do cronômetro, a manipulação eficiente do estado da aplicação e a implementação de lógica para garantir que os estudos concluídos sejam adequadamente gerenciados.
 
-Este projeto é uma excelente oportunidade para aprender e aplicar conceitos fundamentais de React, TypeScript e gerenciamento de estado em uma aplicação prática e útil.# alura-studies
-# alura-studies
+Este projeto é uma excelente oportunidade para aprender e aplicar conceitos fundamentais de React, TypeScript e gerenciamento de estado em uma aplicação prática e útil.
+
+#Links
+Projeto Online:
+https://alura-studies-hzcb.vercel.app/
+
+Github code: 
+https://github.com/Emanuel0001/alura-studies
