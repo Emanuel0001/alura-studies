@@ -28,3 +28,4 @@ O Alura Studies é um aplicativo desenvolvido como parte do curso "Escrevendo Re
 Durante o desenvolvimento deste projeto, enfrentamos desafios como a integração do cronômetro, a manipulação eficiente do estado da aplicação e a implementação de lógica para garantir que os estudos concluídos sejam adequadamente gerenciados.
 
 Este projeto é uma excelente oportunidade para aprender e aplicar conceitos fundamentais de React, TypeScript e gerenciamento de estado em uma aplicação prática e útil.# alura-studies
+# alura-studies
